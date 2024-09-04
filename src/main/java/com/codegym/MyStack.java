@@ -23,7 +23,7 @@ public class MyStack {
     public int pop() {
         if (stackIsEmpty()) throw new RuntimeException("underflow");
         top = top - 1;
-        return stackArray[top+1];
+        return stackArray[top + 1];
     }
 
 }
