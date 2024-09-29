@@ -1,4 +1,4 @@
-package com.codegym;
+package com.codegym.stack;
 
 public class MyStack {
     private int maxSize;
