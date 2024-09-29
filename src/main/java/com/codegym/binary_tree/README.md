@@ -5,3 +5,6 @@
 3. Finding items in a LinkedList is slow;
 4. Time need to perform and operation on a tree is O(logN);
 5. On average a tree is more efficient if you need to perform many different types of operations;
+
+
+[Tutorial Link](https://www.youtube.com/watch?v=M6lYob8STMI)
